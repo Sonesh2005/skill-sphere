@@ -28,3 +28,17 @@
 This repo will include frontend and backend code, AI models, and deployment instructions.
 
 ## Structure (Planned)
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+📬 For any queries, contact us at: [your-email@example.com]
+
+
