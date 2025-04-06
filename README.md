@@ -39,6 +39,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
-📬 For any queries, contact us at: [your-email@example.com]
+📬 For any queries, contact us at: [sonesh2005@gmail.com]
 
 
